@@ -1,0 +1,15 @@
+# YouTube Insight Extractor - Dependencies
+
+# Core libraries for YouTube data extraction
+youtube-transcript-api>=0.6.1
+yt-dlp>=2024.1.0
+
+# Speech recognition (for videos without subtitles)
+faster-whisper>=1.0.0
+
+# Chinese conversion (Traditional -> Simplified)
+opencc-python-reimplemented>=0.1.7
+
+# Optional: For future AI integration
+# openai>=1.0.0
+# google-generativeai>=0.3.0

@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# Output files
+output/
+*.md
+
+# Models and Cache
+.cache/
+*.mp3
+*.wav
+*.webm
+*.m4a
+
+# IDE
+.vscode/
+.idea/
